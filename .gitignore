@@ -1,0 +1,10 @@
+#ignore specificnu datoteku
+grana.txt
+
+#Ignore tipove datoteka
+*.jpg
+*.html
+
+#Ignore mapu/direktorij
+proba/
+
